@@ -1,4 +1,4 @@
-<h1>SketchIt</h1>h1>
+<h1>SketchIt</h1>
 
 A simple sketch experiment to print onto a thermal printer.
 Currently running at 9600 baud.
