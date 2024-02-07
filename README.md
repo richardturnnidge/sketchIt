@@ -2,13 +2,13 @@
 
 A simple sketch experiment to print onto a thermal printer.
 
-Currently running at 9600 baud.
+Currently running at 9600 baud, but can be changed by pressing B.
 
 All written in Z80 Assembly.
 
 Latest version has a joystick/keyboard (arrows) tool to work like a classic Etch-a-Sketch for those who do not have a mouse.
 
-text input added.
+Text input added.
 
 Save/Load files added.
 
